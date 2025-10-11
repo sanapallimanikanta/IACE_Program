@@ -36,7 +36,14 @@ The day began with a comprehensive theoretical session that laid the groundwork 
 The theory came to life in the afternoon session with hands-on practice.
 
 * **Operating the LR Mate 200iD/7L**
-    We had a practical session with a **FANUC LR Mate 200iD/7L** manipulator, using the teach pendant to control it. We learned about its different operational modes: **Teach Pendant mode**, **Programmable mode**, and **Auto mode**. The model name breaks down as:
+  
+  <img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/01ad43ba-fcb9-4a61-b72c-109d0f1c4b88" />
+
+  <img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/e53c9b9a-634d-4c32-b42b-7f4a7a17b578" />
+
+  <img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/8529fde2-85b1-43b5-b21a-4b13fa59ac07" />
+
+   We had a practical session with a **FANUC LR Mate 200iD/7L** manipulator, using the teach pendant to control it. We learned about its different operational modes: **Teach Pendant mode**, **Programmable mode**, and **Auto mode**. The model name breaks down as:
     * **LR Mate:** Robot Type
     * **200iD:** Version of the mechanical machine
     * **7L:** Payload (7kg) and Long Arm Version
