@@ -1,6 +1,7 @@
 # Day 1: Introduction to Industrial Robotics and Automation
 
 ---
+<img width="1600" height="1200" alt="Image" src="https://github.com/user-attachments/assets/c3ebb4f4-4c0d-4b9b-9a2e-fc8defda8d80" />
 
 ### Morning Session: Theory & Fundamentals
 
@@ -41,12 +42,14 @@ The theory came to life in the afternoon session with hands-on practice.
 
   <img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/e53c9b9a-634d-4c32-b42b-7f4a7a17b578" />
 
-  <img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/8529fde2-85b1-43b5-b21a-4b13fa59ac07" />
-
    We had a practical session with a **FANUC LR Mate 200iD/7L** manipulator, using the teach pendant to control it. We learned about its different operational modes: **Teach Pendant mode**, **Programmable mode**, and **Auto mode**. The model name breaks down as:
     * **LR Mate:** Robot Type
     * **200iD:** Version of the mechanical machine
     * **7L:** Payload (7kg) and Long Arm Version
 
+<img width="1280" height="960" alt="Image" src="https://github.com/user-attachments/assets/3cf08870-568f-47ac-890e-3581f6d865c4" />
+
+
 * **Witnessing Spot Welding**
     The highlight of the day was seeing a large industrial manipulator in action. It performed precise **spot welding**, a critical process in automotive manufacturing. We also learned about the various components used in this powerful machine.
+<img width="1280" height="960" alt="Image" src="https://github.com/user-attachments/assets/442741e7-bdfb-4a30-8970-db29cc12dfd2" />
