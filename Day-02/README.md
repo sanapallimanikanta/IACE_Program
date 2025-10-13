@@ -11,6 +11,8 @@ Day 2 began with a valuable practical session focused on welding automation, pro
 * **Robot Laws and Operation:** We observed how the manipulator functions while adhering to the **three laws of robotics** to ensure both safety and precision during complex tasks.
 * **Analyzing Welding Defects:** A key learning point was observing common welding defects. We specifically analyzed the defects that occur when an incorrect setting, such as a **large lead at the tip**, is used, highlighting the importance of perfect calibration for quality control.
 
+![Image](https://github.com/user-attachments/assets/8db8c6c3-bce9-44b2-83e5-b439f9785348)
+
 ---
 
 ### Afternoon Session: Theory of Control Systems and Sensing
