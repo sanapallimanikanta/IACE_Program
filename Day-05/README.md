@@ -14,6 +14,7 @@ The day focused on the foundational electrical concepts essential for automotive
     * **Core Concepts:** Reviewed the basics: Voltage ($\text{V}$ = Pressure) and Current ($\text{I}$ = Flow of Electrons).
     * **Series and Parallel Circuits:** Connected and observed both types of circuits in a live setting, noting that lighting in houses is connected in **parallel**, while protective devices like **fuses and MCBs are connected in series**.
     * **Relay Switches:** Studied the electromagnetic switch (relay) and practiced identifying its pins (30, 85, 86, 87) using a multimeter, understanding its role as a switch for high-current loads controlled by low-current signals.
+  <img width="1280" height="853" alt="Image" src="https://github.com/user-attachments/assets/b1fd6b72-8164-449a-9b1c-dea3ee1976fa" />
 
 ---
 
@@ -28,13 +29,14 @@ The afternoon shifted to the "nervous system" of the vehicle, focusing intensely
     * **Data Rates:** Noted the typical speed limitations of these systems (CAN up to $1\text{ Mbps}$, LIN up to $20\text{ Kbps}$, FlexRay up to $10\text{ Mbps}$).
 
 * **CAN Bus Voltage and Types (Differential Signaling):**
-    * **CAN-High ($\text{CAN\_H}$) and CAN-Low ($\text{CAN\_L}$):** This is a differential signaling system that uses the voltage difference between $\text{CAN\_H}$ and $\text{CAN\_L}$ to encode data, providing high noise immunity.
-    * **High-Speed CAN (CAN-C):** Operates at $500\text{ Kbps}$ and is a high-speed variant of the original CAN protocol.
-    * **Low-Speed CAN (CAN-B):** Operates up to $125\text{ Kbps}$ and is the original version of the CAN protocol.
+    * **CAN-High ($\text{CAN\_H}$) and CAN-Low ($\text{CAN\_L}$):**
+  This is a differential signaling system that uses the voltage difference between CAN_H and CAN_Lto encode data, providing high noise immunity.
+    * **High-Speed CAN (CAN-C):** Operates at 1 Mbps and is a high-speed variant of the original CAN protocol.
+    * **Low-Speed CAN (CAN-B):** Operates up to 125Kbps and is the original version of the CAN protocol.
 
 * **CAN Protocol Advanced Features:**
     * **Bit Stuffing:** Learned about this crucial insertion process where a complementary bit is added whenever an identical sequence of five bits is detected in the data stream. This technique is checked by **CRC (Cyclic Redundancy Check)** at the receiving end to ensure data integrity.
-    * **CAN-FD (Flexible Data-Rate CAN):** Noted this newer variant features a higher payload (up to 64 bytes) and faster data rate (up to $10\text{ Mbps}$).
+    * **CAN-FD (Flexible Data-Rate CAN):** Noted this newer variant features a higher payload (up to 64 bytes) and faster data rate 8 to 10 Mbps.
 
 ---
 
