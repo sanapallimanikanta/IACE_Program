@@ -16,9 +16,10 @@ This repository contains the daily reports and summaries for the IACE Industrial
 
 ---
 
-### 📝 Short Summaries (Days 6-9)
+<img width="758" height="397" alt="image" src="https://github.com/user-attachments/assets/0e617075-604c-4754-ba2f-483f837f9fda" />
+<img width="665" height="537" alt="image" src="https://github.com/user-attachments/assets/5a3b94f3-6683-4bda-a321-623473302edf" />
+<img width="394" height="250" alt="image" src="https://github.com/user-attachments/assets/4849d20d-508b-40f5-9009-47912617e191" />
+<img width="1201" height="1600" alt="image" src="https://github.com/user-attachments/assets/56a13673-a7eb-4ee6-8b51-4fe072f6a0b5" />
 
-* **Day 6:** Focused on advanced automotive electrical systems and diagnostics, giving participants practical experience in troubleshooting simulated wiring faults like short circuits.
-* **Day 7:** Explored automotive communication networks (CAN, LIN, etc.) and featured insightful industrial visits to APTIV and RAICAM to observe real-world manufacturing workflows.
-* **Day 8:** Covered LIN network protocols and introduced ADAS concepts—such as sensor fusion and autonomous perception—highlighted by a live vehicle demonstration.
-* **Day 9:** Concluded with an overview of the global automotive ecosystem and a hands-on physical demonstration of vehicle subsystems on a Toyota Fortuner.
+
+
