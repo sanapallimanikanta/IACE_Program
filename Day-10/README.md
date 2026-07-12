@@ -8,7 +8,7 @@ Beyond theoretical grounding, participants gained substantial hands-on experienc
 
 
 Overall, the program offered a well-rounded blend of theoretical instruction, practical laboratory work, industrial exposure, and cultural enrichment, equipping participants with valuable, industry-relevant knowledge and skills across the domains of industrial robotics and automotive engineering. The program concluded with a formal certification ceremony, with certificates presented to all participants by Mr. E. Rajiv.
-<img width="799" height="370" alt="image" src="https://github.com/user-attachments/assets/9c370a3a-3f32-4889-a5d3-f6fd906a1ff5" 
+
   <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/15f7d520-9419-47a8-88fd-d3d53a0242c8" />
   <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/3256004b-6755-45fb-b247-ffb7f1694f8c" />
 <img width="1201" height="1600" alt="WhatsApp Image 2026-07-12 at 5 25 26 PM" src="https://github.com/user-attachments/assets/3e3728b2-5d9f-45cf-8dab-f1c59a163fff" />
